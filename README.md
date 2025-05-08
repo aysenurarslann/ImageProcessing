@@ -48,3 +48,7 @@ This project aims to determine the ripeness of kiwi fruits using hyperspectral i
 - Apply the pipeline to different fruits or crops
 - Optimize hyperparameters for all models
 - Integrate additional feature extraction (texture, color) for improved prediction
+
+  > **Note**: A detailed version of this project, including source code, data samples, and visuals, is available inside the following ZIP archive:  
+> [Hiperspektral Görüntü İşleme Final Proje Ödevi (ZIP)](https://github.com/aysenurarslann/ImageProcessing/blob/main/Hiperspektral_G%C3%B6r%C3%BCnt%C3%BC_%C4%B0%C5%9Fleme_Final_Proje_odevi.zip)
+
